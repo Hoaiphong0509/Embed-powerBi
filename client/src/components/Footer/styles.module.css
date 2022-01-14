@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.item {
+    margin-left: 10px;
+}
